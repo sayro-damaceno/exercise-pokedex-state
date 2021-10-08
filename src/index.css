@@ -23,3 +23,25 @@ body {
   flex-wrap: wrap;
   margin: 10px 10px;
 }
+
+.next-pokemon {
+  background-color: aqua;
+  border:none;
+  border-radius: 10px;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.btns-types {
+  margin-top: 20px;
+}
+
+.type {
+  margin: 10px;
+  background-color: yellowgreen;
+  border:none;
+  border-radius: 10px;
+  font-size: 15px;
+  padding: 10px;
+  width: 100px;
+}
